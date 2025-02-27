@@ -5,8 +5,7 @@ function Header()
 
 
     return(
-    <>
-    
+
     <header>
         <meow>
         <h1>My Website</h1>
@@ -14,7 +13,6 @@ function Header()
         </meow>
        </header> 
     
-    </>
     );
 }
 
