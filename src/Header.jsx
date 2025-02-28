@@ -8,8 +8,10 @@ function Header()
 
     <header>
         <meow>
-        <h1>My Website</h1>
-        <hr></hr>
+            <div class="Logo">  
+            <h1>&lt;LT\N &gt;</h1>
+            </div>
+            <hr></hr>
         </meow>
        </header>
     

@@ -1,4 +1,17 @@
 meow
 {
-    color: pink;
+    color: rgb(243, 222, 222);
+}
+h1
+{
+    font-size: 17px;
+    font-style: bold;
+    text-decoration: wavy;
+    font-weight: 200;
+    margin-left: 6px;
+}
+.Logo
+{
+    border-radius: 20px;
+    background-color: rgb(26, 24, 24);
 }
