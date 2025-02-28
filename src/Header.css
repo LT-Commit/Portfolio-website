@@ -1,17 +1,26 @@
 meow
 {
-    color: rgb(243, 222, 222);
+    color: #ffffff;
 }
 h1
 {
     font-size: 17px;
     font-style: bold;
     text-decoration: wavy;
-    font-weight: 200;
+    font-weight: 500;
     margin-left: 6px;
 }
 .Logo
 {
     border-radius: 20px;
     background-color: rgb(26, 24, 24);
+}
+
+.dropDowns
+{
+    position: absolute;
+    top: 0;
+    right:10px;
+    place-items: right;
+    color: white;
 }

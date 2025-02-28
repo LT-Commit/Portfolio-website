@@ -1,19 +1,26 @@
-import Header from './Header.jsx'
-import Footer from './Footer.jsx'
-import Games from './Games.jsx'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 
-function App() 
+import {Jurney} from './pages/jurney';
+//import {Aboutme} from './pages/aboutme';
+//import {Repos} from './pages/repos';
+//import {Contact} from './pages/contact';
+
+
+export default function App() 
 {
 
   
   return (
     <>
-    <Header></Header>
-    <Games Number='0'></Games>
-    <Games Number='1'></Games>
-    <Footer></Footer>
+    
+    <Router>
+      <Routes>
+        <Route path="/" element={<Jurney/>}/>
+      </Routes>
+    </Router>
+
+
+
     </>
   );
 }
-
-export default App

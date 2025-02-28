@@ -1,5 +1,5 @@
-import './Games.css'
-import gamePic from './assets/borderlands1.jpg'
+import '../Games.css'
+import gamePic from '../assets/borderlands1.jpg'
 
 function Games(GameNumber)
 {
