@@ -7,7 +7,6 @@ export function Jurney()
     return(
         <>
             <Header></Header>
-
             <Footer></Footer>
         </>
     )

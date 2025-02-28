@@ -1,4 +1,5 @@
 import '../Header.css'
+import { Link } from "react-router-dom"
 
 function Header()
 {
@@ -11,10 +12,10 @@ function Header()
             <div class="Logo">  
             <h1>&lt;LT\N &gt; </h1>
             <div class="dropDowns">
-            <a href = './Games.jsx'>&lt;Jurney&gt;</a>
-            &lt;Repos&gt;  
-            &lt;About&gt;  
-            &lt;Contact me&gt;
+            <Link to="/">&lt;Jurney&gt;</Link>
+            <Link to="/Repos">&lt;Repos&gt;</Link>
+            <Link to="/About-Me">&lt;About&gt;</Link>
+            <Link to="/Contacts">&lt;Contact Me&gt;</Link>
             </div>
 
             </div>
