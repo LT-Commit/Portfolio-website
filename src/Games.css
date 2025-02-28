@@ -1,0 +1,19 @@
+.gCard
+{
+    border: 1px solid;
+    box-shadow: 2px 2px 2px white;
+    color: rgb(175, 210, 255);
+    padding: 20px;
+    text-align: center;
+    max-width: 250px;
+    display:inline-block;
+    margin: 10px;
+}
+
+.gCard .gCard-Image
+{
+    border-radius: 10%;
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 10px;
+}

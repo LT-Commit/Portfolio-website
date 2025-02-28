@@ -11,7 +11,7 @@ function Header()
         <h1>My Website</h1>
         <hr></hr>
         </meow>
-       </header> 
+       </header>
     
     );
 }
