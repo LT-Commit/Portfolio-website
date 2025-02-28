@@ -1,6 +1,7 @@
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import '../aboutme.css'
+import glorp from '../assets/download.jfif'
 
 export function Aboutme()
 {
@@ -26,8 +27,10 @@ export function Aboutme()
         <li>With all my projects i will always try break down everything i write int he coding project, Not only to renforce my learning but also so i can look back on it in the future,
             and probably laugh at how bad i wrote it but hey i like to keep track of my progress.
         </li>
-        
         </div>
+
+        <p></p>
+        <img src={glorp} alt="glorp"></img>
 
 
         <Footer></Footer>
