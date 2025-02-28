@@ -10,7 +10,7 @@ export function Repos()
         <>
         <Header></Header>
 
-        <h2>Heyo this is tmy jurney page</h2>
+        <h2>This is my repo page</h2>
 
 
         <Footer></Footer>
