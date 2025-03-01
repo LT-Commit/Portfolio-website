@@ -7,7 +7,7 @@ export function Jurney(props)
     return(
         <>
             <Header></Header>
-            <h2>Jurney Page</h2>
+            <h2>Hope you enjoy the time on my site, and i hope you like what i can do</h2>
             <Footer></Footer>
         </>
     )
