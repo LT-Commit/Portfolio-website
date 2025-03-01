@@ -24,7 +24,8 @@ export function Aboutme()
         <li>With most of my projects i like to take my time and learn what is happening behind the scenes of my projects,
              due to this i will mostly use c++ or C in my programming journey</li>
              <p></p>
-        <li>With all my projects i will always try break down everything i write int he coding project, Not only to renforce my learning but also so i can look back on it in the future,
+        <li>With all my projects i will always try break down everything i write int he coding project, 
+            Not only to renforce my learning but also so i can look back on it in the future,
             and probably laugh at how bad i wrote it but hey i like to keep track of my progress.
         </li>
         <p></p>
@@ -38,12 +39,15 @@ export function Aboutme()
         <li>Windows Internals by Pavel Yosofovich!</li>
         <li>Windows Kernel Programming by Pavel Yosifovich</li>
         <li>Grokking Algorithms by Aditya Y Bhargava</li>
-        <li>The C programming language by Brian W</li>
+        <li class="rainbow">The C programming language by Brian W</li>
         <li>Computer science Distilled by Wladston Ferrera Filo</li>
         <li>Practical Reverse Engineering by Alexandre Gazet</li>
         </div>
 
-        <p></p>
+        <p>
+
+
+        </p>
         <img src={glorp} alt="glorp"></img>
 
 
