@@ -10,7 +10,8 @@ export function Repos()
         <>
         <Header></Header>
 
-        <h2>This is my repo page</h2>
+        <h2>This is my project page! </h2>
+        <p>Here i will talk about what projects i have going on in little blog posts!</p>
 
 
         <Footer></Footer>
