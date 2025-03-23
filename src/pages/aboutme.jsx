@@ -18,6 +18,8 @@ export function Aboutme()
         <li>18 years old!</li>
         <li class="rainbow">Any pronouns because gender is stupid</li>
         <li>Software development Student</li>
+        <li>Blender Asset Modler</li>
+        <li><a href='https://www.artstation.com/jamietattersall6'>Art station</a></li>
         </div>
         <div class="Aboutme-Box">
         <h2>Goals with my projects:</h2>
